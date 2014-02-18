@@ -10,5 +10,11 @@ namespace SchoolForVersionControl4
     {
         public String Name { get; set; }
         public int age { get; set; }
+
+        public Student(string name, int age)
+        {
+            Name = name;
+            this.age = age;
+        }
     }
 }
