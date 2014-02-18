@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace SchoolForVersionControl4
 {
-    class Program
+    class Student
     {
-        static void Main(string[] args)
-        {
-
-            Console.WriteLine("Hello world");
-        }
+        public String Name { get; set; }
+        public int age { get; set; }
     }
 }
