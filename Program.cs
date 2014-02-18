@@ -12,6 +12,7 @@ namespace SchoolForVersionControl4
         {
 
             Console.WriteLine("Hello world");
+            Console.WriteLine("Guten tag");
         }
     }
 }
