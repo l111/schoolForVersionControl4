@@ -13,6 +13,7 @@ namespace SchoolForVersionControl4
 
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello again");
+            Console.WriteLine("Even more hello");
         }
     }
 }
